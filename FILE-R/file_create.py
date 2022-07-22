@@ -1,0 +1,1 @@
+open('stdata.txt','x')
